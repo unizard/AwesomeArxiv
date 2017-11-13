@@ -12,3 +12,5 @@
 - AAAI2018
 - [ICLR2018 Under Review](http://iclr2018.mmanukyan.io/)
 
+### Similar Thinking for Arxiving
+- [Person #1](https://github.com/number9473/nn-algorithm/issues)
