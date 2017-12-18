@@ -6,10 +6,9 @@
 - [Arxiv-MindMap: Editing](https://coggle.it/diagram/WfAfO31akQABIiiH)
 
 
-### Conference
-- ICCV2017
-- NIPS2017
-- AAAI2018
+### Conference (CV/ML/Robot)
+- [NIPS2017](https://github.com/unizard/AwesomeArxiv/issues/86)
+- [AAAI2018](https://github.com/unizard/AwesomeArxiv/issues/88)
 - [ICLR2018 Under Review](http://iclr2018.mmanukyan.io/)
 
 ### Similar Thinking for Arxiving
