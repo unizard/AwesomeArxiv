@@ -10,6 +10,7 @@
 - [NIPS2017](https://github.com/unizard/AwesomeArxiv/issues/86)
 - [AAAI2018](https://github.com/unizard/AwesomeArxiv/issues/88)
 - [ICLR2018 Under Review](http://iclr2018.mmanukyan.io/)
+- [CVPR2018]()
 
 ### Similar Thinking for Arxiving
 - [Person #1](https://github.com/number9473/nn-algorithm/issues)
