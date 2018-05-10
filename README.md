@@ -14,3 +14,6 @@
 
 ### Similar Thinking for Arxiving
 - [Person #1](https://github.com/number9473/nn-algorithm/issues)
+
+### DL gitbooks
+https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/googlenet.html
